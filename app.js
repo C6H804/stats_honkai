@@ -20,7 +20,7 @@ function removeWords(tableau_to_change, nom_personnage) {
 
 
 function getCharacterName(titre) {
-    let n = 0;
+    let n = -1;
     nom_personnage = "";
     while (n < 100) {
         n++;
