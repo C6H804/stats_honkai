@@ -1,0 +1,65 @@
+Nom du personnage
+LV1 Base HP Avant ascension
+LV1 Base HP Après ascension
+LV1 Base ATK Avant ascension
+LV1 Base ATK Après ascension
+LV1 Base DEF Avant ascension
+LV1 Base DEF Après ascension
+LV1 Base SPD Avant ascension
+LV1 Base SPD Après ascension
+LV 20 Base HP Avant ascension
+LV 20 Base HP Après ascension
+LV 20 Base ATK Avant ascension
+LV 20 Base ATK Après ascension
+LV 20 Base DEF Avant ascension
+LV 20 Base DEF Après ascension
+LV 20 Base SPD Avant ascension
+LV 20 Base SPD Après ascension
+LV 30 Base HP Avant ascension
+LV 30 Base HP Après ascension
+LV 30 Base ATK Avant ascension
+LV 30 Base ATK Après ascension
+LV 30 Base DEF Avant ascension
+LV 30 Base DEF Après ascension
+LV 30 Base SPD Avant ascension
+LV 30 Base SPD Après ascension
+LV 40 Base HP Avant ascension
+LV 40 Base HP Après ascension
+LV 40 Base ATK Avant ascension
+LV 40 Base ATK Après ascension
+LV 40 Base DEF Avant ascension
+LV 40 Base DEF Après ascension
+LV 40 Base SPD Avant ascension
+LV 40 Base SPD Après ascension
+LV 50 Base HP Avant ascension
+LV 50 Base HP Après ascension
+LV 50 Base ATK Avant ascension
+LV 50 Base ATK Après ascension
+LV 50 Base DEF Avant ascension
+LV 50 Base DEF Après ascension
+LV 50 Base SPD Avant ascension
+LV 50 Base SPD Après ascension
+LV 60 Base HP Avant ascension
+LV 60 Base HP Après ascension
+LV 60 Base ATK Avant ascension
+LV 60 Base ATK Après ascension
+LV 60 Base DEF Avant ascension
+LV 60 Base DEF Après ascension
+LV 60 Base SPD Avant ascension
+LV 60 Base SPD Après ascension
+LV 70 Base HP Avant ascension
+LV 70 Base HP Après ascension
+LV 70 Base ATK Avant ascension
+LV 70 Base ATK Après ascension
+LV 70 Base DEF Avant ascension
+LV 70 Base DEF Après ascension
+LV 70 Base SPD Avant ascension
+LV 70 Base SPD Après ascension
+LV 80 Base HP Avant ascension
+LV 80 Base HP Après ascension
+LV 80 Base ATK Avant ascension
+LV 80 Base ATK Après ascension
+LV 80 Base DEF Avant ascension
+LV 80 Base DEF Après ascension
+LV 80 Base SPD Avant ascension
+LV 80 Base SPD Après ascension
